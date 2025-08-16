@@ -6,4 +6,4 @@ print("La suma de los primeros 10 números es:", suma)
 print("Fin del programa")
 
 print("rama 1")
-print("este es el cambio de la rama delelope")
+print("este es el cambio de la rama qa")
